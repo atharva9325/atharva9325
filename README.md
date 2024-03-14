@@ -2,8 +2,12 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Machine Learning & Data Analytics...
 - 📫 Reach out me at -
--
-- https://instagram.com/atharvadange_/ ..
+ 
+  📞 : +919325917023
+  
+  IN : https://www.linkedin.com/in/atharvadange21/
+  
+  IG : https://instagram.com/atharvadange_/ 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
