@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atharva9325
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Machine Learning & Data Analytics...
+- 👀 I’m interested in Exploring New Skills 
+- 🌱 I’m currently learning Machine Learning & Data Analytics
 - 📫 Reach out me at -
  
   📞 : +919325917023
